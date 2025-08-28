@@ -5,7 +5,7 @@ authors = ["Sanjay Ganesh"]
 telemetry = false
 cache_dir = '.\.cache'
 requirements = []
-[contracts.smart_contract]
+[contracts.aimart]
 path = 'contracts/aimart.clar'
 clarity_version = 3
 epoch = 'latest'
